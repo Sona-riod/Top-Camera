@@ -51,7 +51,7 @@ It combines **YOLOv8-based object detection**, **QR code decoding**, **local per
 ```bash
 git clone https://github.com/<your-org>/top-camera-pallet-system.git
 cd top-camera-pallet-system
-````
+```
 
 ### Create Virtual Environment (Optional)
 
