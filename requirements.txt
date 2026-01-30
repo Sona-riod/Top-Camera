@@ -1,13 +1,13 @@
 # UI and Camera Framework
-kivy==2.3.1
-opencv-python==4.12.0.88
-numpy==1.26.4
+kivy
+opencv-python
+numpy
 
 # AI and Scanning
-ultralytics==8.3.175
-pyzbar==0.1.9
+ultralytics
+pyzbar
 
 # Networking and Cloud Sync
-requests==2.32.4
-python-socketio[client]==5.10.0
-websocket-client==1.8.0
+requests
+python-socketio
+websocket-client

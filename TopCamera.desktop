@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=Top Camera Palletizer
+Comment=Launch ICAM-540 Scanning System
+Exec=/path/to/your/folder/start_app.sh
+Path=/path/to/your/folder/
+Icon=video-display
+Terminal=false
+Type=Application
+Categories=Utility;Application;
