@@ -96,25 +96,8 @@ Required libraries include:
 
 ## Running the Application
 
-### Set Permissions
-
 ```bash
-chmod +x start_app.sh
-sudo chmod 666 /dev/video10
-```
 
-### Start the System
-
-#### Option 1: Using Launch Script (Recommended)
-
-```bash
-./start_app.sh
-```
-
-#### Option 2: Direct Execution
-
-```bash
-export DISPLAY=:0
 python3 main.py
 ```
 
